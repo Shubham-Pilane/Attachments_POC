@@ -1,0 +1,16 @@
+[
+    {
+        "id": "c4ede13e-edb5-4c28-bea8-d3368c2dc8ce",
+        "projectId": "173dcde4-4770-4f1c-9a39-c37a79c77813",
+        "title": "C_jf.jpg",
+        "description": "",
+        "tenantId": "f757acc8-b0c5-4b4e-8584-3e123c896ccd",
+        "fileType": "image/jpeg",
+        "attachmentType": "files",
+        "contentType": "base64",
+        "getUrl": "https://rehab-tracker-08012024.s3.amazonaws.com/tenants/f757acc8-b0c5-4b4e-8584-3e123c896ccd/projects/173dcde4-4770-4f1c-9a39-c37a79c77813/attachments/files/c4ede13e-edb5-4c28-bea8-d3368c2dc8ce.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4EMEDDEAIQNPB53C%2F20240606%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240606T075521Z&X-Amz-Expires=86400&X-Amz-Signature=748e118e0d2c125edbc8e01a78e4595152bffeaf0aa33304eb08cc84b72850cf&X-Amz-SignedHeaders=host",
+        "includeInEr": false,
+        "tag": null,
+        "isLocked": false
+    }
+]
