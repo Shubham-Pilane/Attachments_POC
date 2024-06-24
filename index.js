@@ -11,14 +11,13 @@ app.get("/", (req, res) => {
     res.send("Hi from Shubham");
 });
 
-app.get("/img", async (req, res) => {
+app.get("/atch", async (req, res) => {
     const startTime = Date.now(); 
     try {
         const zip = archiver('zip', {
-            zlib: { level: 9 } // Compression level
+            zlib: { level: 9 } 
         });
 
-        // Set the correct headers for the zip file
         res.attachment('attachments.zip');
         zip.pipe(res);
 
